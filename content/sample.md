@@ -19,9 +19,17 @@ title: '体験版ダウンロード'
 ----
 
 ## SP「幻聴インヴィテーション」
-2025年12月31日先行発売予定
+2025年12月31日発売
 
 - [全曲クロスフェード (gencho-invitation-spin-style.flac FLAC 8 21.7MB)](https://soundcloud.com/hayatehay/gencho-invitation-spin-style)
+
+ミュージックカードを購入してダウンロード
+- [RURITANIA MUSIC STORE](https://nmimusic.booth.pm/items/7634881)
+
+デジタルメディアを購入してダウンロード
+- [Bandcamp](https://jinasanami.bandcamp.com/album/gencho-invitation)
+- [メロンブックス](https://www.melonbooks.co.jp/detail/detail.php?product_id=3443322)
+- [DLsite](https://www.dlsite.com/home/announce/=/product_id/RJ01527608.html)
 
 ----
 
@@ -38,7 +46,7 @@ CD-EXTRAを購入
 - [RURITANIA MUSIC STORE](https://nmimusic.booth.pm/items/7393888)
 
 デジタルメディアを購入してダウンロード
-- [Bandcamp](https://jinasanami.bandcamp.com/album/exsultatio)（9月5日先行発売予定）
+- [Bandcamp](https://jinasanami.bandcamp.com/album/exsultatio)（9月5日先行発売）
 - [メロンブックス](https://www.melonbooks.co.jp/detail/detail.php?product_id=3218343)
 - [DLsite](https://www.dlsite.com/home/announce/=/product_id/RJ01457234.html)
 
@@ -64,6 +72,7 @@ CD-EXTRAを購入
 
 デジタルメディアを購入してダウンロード
 - [Bandcamp](https://jinasanami.bandcamp.com/album/alma-airu)
+- [メロンブックス](https://www.melonbooks.co.jp/detail/detail.php?product_id=3427761)
 - [DLsite](https://www.dlsite.com/home/work/=/product_id/RJ01350054.html)
 
 ----
