@@ -9,7 +9,7 @@ title: 'お問い合わせ'
 ## 電子メール
 GMailを使用。<s>お仕事の依頼や</s>QSL発行はこちらへ。<br>
 **<font color="#ff0000">※現在メールでのお仕事は受け付けておりません。</font>**
-- hayatehay.njb at gmail.com
+- asanamij at ruritania.jp
 
 <!---
 ## Skeb
