@@ -73,4 +73,4 @@ ATプロトコルにより他のSNSと繋がる場合がある。
 
 ## エックス(旧ツイッター)
 偽物対策。IVEのライブを観に行った話はふじさんすきーと並行で。
-- [@hayatehay](https://x.com/hayatehay)
+- [@jinasanami](https://x.com/jinasanami)
