@@ -11,7 +11,7 @@ tags:
 - 発売元：中村音楽工業/ナカムラミュージックレコーズ
 - 品番：NRCZ-1
 - 価格：￥1,000+消費税
-- 購入
+- 入手
     - [RURITANIA MUSIC STORE](https://nmimusic.booth.pm/items/6371255)
 
 「9ineverse非公式オンリーイベント オンラインオフ会」にて限定配布したシングルが、高音質になって帰ってきた！

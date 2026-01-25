@@ -11,7 +11,7 @@ tags:
 - 発売元：中村音楽工業/ナカムラミュージックレコーズ
 - 品番：NRGH-1
 - 価格：￥1,700+消費税
-- 購入
+- 入手
     - [RURITANIA MUSIC STORE](https://nmimusic.booth.pm/items/6308487)
 
 **その響きは、月夜を彩る。**

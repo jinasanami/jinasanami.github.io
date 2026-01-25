@@ -127,6 +127,17 @@ index = false
 title = "NEWS"
 
 [[params.news.items]]
+title = "オムニバスアルバム「We Love Otoskey!」に楽曲を提供"
+date = "2026/02/01"
+content = """
+Tanukeyサーバー「おとすきー」にてナカムラミュージックレコーズ（現・[日本ルリタニアレコード](https://ruritania.jp/tags/日本ルリタニアレコード)）のアカウントを運営していた御縁で、サービス終了記念のオムニバスアルバム「We Love Otoskey!」に参加します。
+
+曲名：Blue Light Star
+
+5月発売予定の3rd EPからの先行公開です。無料でダウンロードできますので、是非どうぞ。
+"""
+
+[[params.news.items]]
 title = "コミックマーケット107参加と3rd SP「幻聴インヴィテーション」発売決定"
 date = "2025/11/07"
 content = """

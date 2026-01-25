@@ -11,7 +11,7 @@ tags:
 - 発売元：中村音楽工業/ナカムラミュージックレコーズ
 - 品番：NRMH-1
 - 価格：￥400+消費税
-- 購入
+- 入手
     - [RURITANIA MUSIC STORE](https://nmimusic.booth.pm/items/6389085)
     - [メロンブックス](https://www.melonbooks.co.jp/detail/detail.php?product_id=2878193)
 

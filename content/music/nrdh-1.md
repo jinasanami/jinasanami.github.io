@@ -11,7 +11,7 @@ tags:
 - 発売元：中村音楽工業/ナカムラミュージックレコーズ
 - 品番：NRDH-1
 - 価格：￥400+消費税
-- 購入
+- 入手
     - [Bandcamp](https://jinasanami.bandcamp.com/album/sunrise-colours-second-track)
     - [メロンブックス](https://www.melonbooks.co.jp/detail/detail.php?product_id=2674946)
 

@@ -11,7 +11,7 @@ tags:
 - 発売元：中村音楽工業/ナカムラミュージックレコーズ
 - 品番：NRMH-2
 - 価格：￥600+消費税
-- 購入
+- 入手
     - [RURITANIA MUSIC STORE](https://nmimusic.booth.pm/items/6605491)
 
 **麻浪迅、魂の2ndシングル。**
