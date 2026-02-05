@@ -1,2 +1,4 @@
-Sitemap: https://jinasanami.github.io/sitemap.xml
+User-agent: *
+Allow: /
 
+Sitemap: https://jinasanami.github.io/sitemap.xml
