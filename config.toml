@@ -2,7 +2,7 @@ baseURL = "https://jinasanami.github.io/"
 languageCode = "ja-jp"
 title = "麻浪迅のホームページ"
 theme = "profile"
-enableRobotsTXT = true
+enableRobotsTXT = false
 timeZone = "Asia/Tokyo"
 
 [outputs]
