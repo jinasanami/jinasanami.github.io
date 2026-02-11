@@ -5,15 +5,15 @@ image: "/img/music/nrmh-4.png"
 tags:
 - ミュージックカード
 - SP
+- 日本ルリタニアレコード
 ---
 
 - 発売予定：2025年12月31日
-- 発売元：中村音楽工業/ナカムラミュージックレコーズ
+- 発売元：中村音楽工業/日本ルリタニアレコード
 - 品番：NRMH-4
 - 価格：￥600+消費税
 - 入手
     - [RURITANIA MUSIC STORE](https://nmimusic.booth.pm/items/7634881)
-
 
 **麻浪迅 3rd SPで、懐かしい未来が甦る。**
 

@@ -5,14 +5,15 @@ image: "/img/music/nrch-2.png"
 tags:
 - CDエクストラ
 - SP
+- 日本ルリタニアレコード
 ---
 
 - 発売：2024年3月5日
-- 発売元：中村音楽工業/ナカムラミュージックレコーズ
+- 発売元：中村音楽工業/日本ルリタニアレコード
 - 品番：NRCH-2
 - 価格：￥1,100+消費税
 - 入手
-    - [RURITANIA MUSIC STORE](https://nmimusic.booth.pm/items/6605148)
+    - [RURITANIA MUSIC STORE](https://nmimusic.booth.pm/items/6605491)
 
 **麻浪迅、魂の2ndシングル。**
 

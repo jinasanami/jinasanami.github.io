@@ -5,14 +5,15 @@ image: "/img/music/nrah-1.png"
 tags:
 - DVD-Audio
 - EP
+- 日本ルリタニアレコード
 ---
 
 - 発売：2024年12月7日
-- 発売元：中村音楽工業/ナカムラミュージックレコーズ
+- 発売元：中村音楽工業/日本ルリタニアレコード
 - 品番：NRAH-1
 - 価格：￥1,700+消費税
 - 入手
-    - [RURITANIA MUSIC STORE](https://nmimusic.booth.pm/items/6320823)
+    - [RURITANIA MUSIC STORE](https://nmimusic.booth.pm/items/5865685)
 
 **その響きは、月夜を彩る。**
 

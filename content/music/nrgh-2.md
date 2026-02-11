@@ -3,16 +3,17 @@ title: "Exsultatio [DSD Disc Format]"
 date: 2025-09-26
 image: "/img/music/nrgh-2.png"
 tags:
-- ミュージックカード
+- DSDディスク
 - EP
+- 日本ルリタニアレコード
 ---
 
 - 発売予定：2025年9月26日
-- 発売元：中村音楽工業/ナカムラミュージックレコーズ
+- 発売元：中村音楽工業/日本ルリタニアレコード
 - 品番：NRGH-2
 - 価格：￥1,700+消費税
 - 入手
-    - [RURITANIA MUSIC STORE](https://nmimusic.booth.pm/items/7345968)
+    - [RURITANIA MUSIC STORE](https://nmimusic.booth.pm/items/7267743)
 
 **自由な陶酔の世界へ、ようこそ…。麻浪迅 2nd EP**
 

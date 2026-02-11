@@ -36,10 +36,9 @@ ActivityPubプロトコルにより他のSNSと繋がる場合がある。
 - [@jinasanami@mi.aono.space](https://mi.aono.space/@jinasanami)
 
 ## Mastodon
-「Mastodon.social」と「fedibird.com」サーバーにアカウントがあるが、あまり出没しない。<br>
+「fedibird.com」サーバーに広報アカウントがある。<br>
 ActivityPubプロトコルにより他のSNSと繋がる場合がある。
-- [@hayatehay@mastodon.social](https://mastodon.social/@hayatehay)
-- [@hayatehay@fedibird.com](https://fedibird.com/@hayatehay)
+- [@jinasanami@fedibird.com](https://fedibird.com/@jinasanami)
 
 ## Threads
 あまり出没しないが、フェディヴァース実験に参加している。<br>

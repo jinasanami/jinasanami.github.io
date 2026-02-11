@@ -5,14 +5,15 @@ image: "/img/music/nrch-3.png"
 tags:
 - CDエクストラ
 - EP
+- 日本ルリタニアレコード
 ---
 
 - 発売予定：2025年9月26日
-- 発売元：中村音楽工業/ナカムラミュージックレコーズ
+- 発売元：中村音楽工業/日本ルリタニアレコード
 - 品番：NRCH-3
 - 価格：￥1,500+消費税
 - 入手
-    - [RURITANIA MUSIC STORE](https://nmimusic.booth.pm/items/7393888)
+    - [RURITANIA MUSIC STORE](https://nmimusic.booth.pm/items/7267743)
 
 **自由な陶酔の世界へ、ようこそ…。麻浪迅 2nd EP**
 
