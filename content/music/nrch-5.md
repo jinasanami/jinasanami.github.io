@@ -1,21 +1,18 @@
 ---
-title: "BLUE PRiDE [ミュージックカード]"
-date: 2026-05-01
-image: "/img/music/nrmh-5.png"
+title: "BLUE PRiDE [CD-EXTRA]"
+date: 2026-05-17
+image: "/img/music/nrch-5.png"
 tags:
-- ミュージックカード
+- CDエクストラ
 - EP
 - 日本ルリタニアレコード
 ---
 
-- 発売予定：2026年5月1日
+- 発売予定：2026年5月17日
 - 発売元：中村音楽工業/日本ルリタニアレコード
 - 品番：NRMH-5
 - 価格：￥1200+消費税
-<!--
-- 入手
-    - [RURITANIA MUSIC STORE](https://nmimusic.github.io/)
--->
+- イベント限定販売
 
 **麻浪迅 3rd EP――それは銀河でただ一つ、青の異彩を誇る星。**
 
@@ -25,9 +22,7 @@ tags:
 
 全曲136BPMで、DJ繋ぎも楽々。
 
-ハイレゾ仕様のミュージック・カードにより、楽曲が持つ魅力を余すところなく伝える。
-
-※これはBandcampの仕組みを利用したミュージックカードです。CDではありませんので、ご確認の上ご注文下さい。[ダウンロード手順はこちら](/musiccard/)
+CDエクストラ盤はハイレゾデータとして、48kHz/24bitのFLACを同梱。
 
 ## 収録曲
 1. Trance Pride (8:01)
@@ -35,3 +30,7 @@ tags:
 3. Tropical Fish (5:04)
 4. Escape from A Nightmare (6:18)
 5. Three-Three-Four (5:34)
+
+## おまけデータ
+- 全曲ハイレゾ音源(FLAC 48kHz/24bit)
+- ライナーノーツ(TXT)

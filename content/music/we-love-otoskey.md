@@ -6,8 +6,7 @@ tags:
 - オムニバス
 ---
 
-- 発売予定：2026年2月21日
-- 発売元：
+- 発売：2026年2月21日
 - 価格：無料
 - 入手
     - [Bandcamp](https://weloveotoskey.bandcamp.com/)

@@ -18,6 +18,13 @@ title: '体験版ダウンロード'
 
 ----
 
+## EP「BLUE PRiDE」
+2026年5月順次発売
+
+- [全曲クロスフェード (blue-pride-spin-style.flac FLAC 8 170.1MB)](https://soundcloud.com/hayatehay/blue-pride-spin-style)
+
+----
+
 ## SP「幻聴インヴィテーション」
 2025年12月31日発売
 

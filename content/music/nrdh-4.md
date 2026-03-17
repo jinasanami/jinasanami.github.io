@@ -3,7 +3,7 @@ title: "9inth Story [ダウンロード]"
 date: 2025-05-01
 image: ""
 tags:
-- CDエクストラ
+- ダウンロード
 - SP
 - 日本ルリタニアレコード
 ---

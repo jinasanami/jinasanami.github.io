@@ -127,6 +127,17 @@ index = false
 title = "NEWS"
 
 [[params.news.items]]
+title = "3rd EP「BLUE PRiDE」発売決定"
+date = "2026/03/17"
+content = """
+トランスジャズ第3弾。
+
+2026年5月1日に[ミュージックカード](/music/nrmh-5)、17日に[CDエクストラ](/music/nrch-5)を順次発売予定。
+
+なお、Bandcamp、DLsite、メロンブックスでのデジタル配信は5月1日に開始予定です。
+"""
+
+[[params.news.items]]
 title = "オムニバスアルバム「We Love Otoskey!」に楽曲を提供"
 date = "2026/02/01"
 content = """
