@@ -1,6 +1,6 @@
 ---
 title: "幻聴インヴィテーション [CD-EXTRA]"
-date: 2025-12-31
+date: 2026-05-17
 image: "/img/music/nrch-4.png"
 tags:
 - CDエクストラ
