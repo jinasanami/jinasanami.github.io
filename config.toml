@@ -96,7 +96,7 @@ url = "https://skeb.jp/@hayatehay"
 
 [[params.hero.socialLinks.fontAwesomeIcons]]
 icon = "fab fa-github"
-url = "https://github.com/hayatehay"
+url = "https://github.com/jinasanami"
 
 [params.navbar.menus]
 disableAbout = true
