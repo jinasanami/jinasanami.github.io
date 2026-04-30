@@ -1,6 +1,6 @@
 baseURL = "https://jinasanami.github.io/"
 languageCode = "ja-jp"
-title = "麻浪迅のホームページ"
+title = "Jin Asanami"
 theme = "profile"
 enableRobotsTXT = false
 timeZone = "Asia/Tokyo"
