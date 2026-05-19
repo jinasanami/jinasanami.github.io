@@ -8,14 +8,12 @@ tags:
 - 日本ルリタニアレコード
 ---
 
-- 発売予定：2026年5月1日
+- 発売：2026年5月1日
 - 発売元：中村音楽工業/日本ルリタニアレコード
 - 品番：NRMH-5
 - 価格：￥1200+消費税
-<!--
 - 入手
-    - [RURITANIA MUSIC STORE](https://nmimusic.github.io/)
--->
+    - [RURITANIA MUSIC STORE](https://nmimusic.booth.pm/items/7890725)
 
 **麻浪迅 3rd EP――それは銀河でただ一つ、青の異彩を誇る星。**
 
