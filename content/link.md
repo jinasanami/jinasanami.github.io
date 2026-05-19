@@ -2,9 +2,8 @@
 title: 'リンク'
 ---
 
-- [一般社団同人中村音楽工業](https://nmimusic.github.io/)
+- [一般社団同人中村音楽工業](https://ruritania.jp/)
     - [RURITANIA公式Misskey](https://misskey.design/@nmimusic)
-    - [NMR公式Misskey](https://otoskey.tarbin.net/@nakamuramusicrecords)
     - [RME公式Misskey](https://misskey.doujin.games/@nmimusic)
 - [RURITANIA MUSIC STORE](https://nmimusic.booth.pm)
 - [Bandcamp](https://bandcamp.com/)
