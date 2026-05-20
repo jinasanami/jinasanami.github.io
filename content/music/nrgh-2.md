@@ -1,5 +1,5 @@
 ---
-title: "Exsultatio [DSD Disc Format]"
+title: "エクスルタティオ [DSD Disc Format]"
 date: 2025-09-26
 image: "/img/music/nrgh-2.png"
 tags:

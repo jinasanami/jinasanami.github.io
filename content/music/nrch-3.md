@@ -1,5 +1,5 @@
 ---
-title: "Exsultatio [CD-EXTRA]"
+title: "エクスルタティオ [CD-EXTRA]"
 date: 2025-09-26
 image: "/img/music/nrch-3.png"
 tags:

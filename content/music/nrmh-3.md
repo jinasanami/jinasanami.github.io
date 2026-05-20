@@ -1,5 +1,5 @@
 ---
-title: "Exsultatio [ミュージックカード]"
+title: "エクスルタティオ [ミュージックカード]"
 date: 2025-09-26
 image: "/img/music/nrmh-3.png"
 tags:

@@ -12,7 +12,7 @@
     <h2 class="text-center pb-2">{{.Title}}</h2>
     {{.Content}}
     <div class="row">
-        {{ range .Paginator.Pages }}
+        {{ range (.Paginate .Pages 9).Pages }}
         <div class="col-lg-4 col-md-6 my-3">
             <div class="card-columns">
                 <div class="card h-100">
@@ -28,7 +28,7 @@
                             <h5 class="card-title bg-transparent" title="{{ .Title }}">{{ .Title | truncate 25 }}</h5>
                         </a>
                         <div class="card-text secondary-font">
-                            <p>{{ .Summary | truncate 300}}</p>
+                            <p>{{ .Summary | truncate 100 | plainify }}</p>
                         </div>
                     </div>
                     <div class="mt-auto post-footer bg-transparent py-3">

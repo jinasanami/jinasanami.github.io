@@ -1,5 +1,5 @@
 baseURL = "https://jinasanami.github.io/"
-languageCode = "ja-jp"
+locale = "ja-jp"
 title = "Jin Asanami"
 theme = "profile"
 enableRobotsTXT = false
@@ -27,33 +27,38 @@ weight = 2
 url = "/music/"
 
 [[menu.main]]
-name = "WORKS"
+name = "BOOKS"
 weight = 3
+url = "/books/"
+
+[[menu.main]]
+name = "WORKS"
+weight = 4
 url = "/works/"
 
 [[menu.main]]
 name = "SAMPLE"
-weight = 4
+weight = 5
 url = "/sample/"
 
 [[menu.main]]
 name = "EVENT"
-weight = 5
+weight = 6
 url = "/event/"
 
 [[menu.main]]
 name = "BLOG"
-weight = 6
+weight = 7
 url = "/blog/"
 
 [[menu.main]]
 name = "LINK"
-weight = 7
+weight = 8
 url = "/link/"
 
 [[menu.main]]
 name = "CONTACT"
-weight = 8
+weight = 9
 url = "/contact/"
 
 [params]
