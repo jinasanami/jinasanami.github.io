@@ -19,9 +19,18 @@ title: '体験版ダウンロード'
 ----
 
 ## EP「BLUE PRiDE」
-2026年5月順次発売
+2026年5月1日発売
 
-- [全曲クロスフェード (blue-pride-spin-style.flac FLAC 8 170.1MB)](https://soundcloud.com/hayatehay/blue-pride-spin-style)
+- [全曲クロスフェード (blue-pride-spin-style.flac FLAC 8 170.1MB)](https://soundcloud.com/hayatehay/blue-pride-spin-style) ※96kHz/24bitハイレゾ
+- [インターネット熱帯魚 (01 Tropical Fish In The Internet.flac FLAC 8 133.4MB)](https://soundcloud.com/hayatehay/tropical-fish-in-the-internet) ※96kHz/24bitハイレゾ
+
+ミュージックカードを購入してダウンロード
+- [RURITANIA MUSIC STORE](https://nmimusic.booth.pm/items/7890725)
+
+デジタルメディアを購入してダウンロード
+- [Bandcamp](https://jinasanami.bandcamp.com/album/blue-pride)
+- [メロンブックス](https://www.melonbooks.co.jp/detail/detail.php?product_id=3552296)
+- [DLsite](https://www.dlsite.com/home/announce/=/product_id/RJ01564792.html)
 
 ----
 
