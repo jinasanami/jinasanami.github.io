@@ -30,6 +30,6 @@ tags:
 ## 収録曲
 1. Trance Pride (8:01)
 2. Blue Light Star (6:34)
-3. Tropical Fish (5:04)
-4. Escape from A Nightmare (6:18)
-5. Three-Three-Four (5:34)
+3. 熱帯魚 (5:04)
+4. 悪夢からの脱出 (6:18)
+5. 参々四 (5:34)
