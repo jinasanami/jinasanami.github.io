@@ -21,8 +21,8 @@ title: '体験版ダウンロード'
 ## EP「BLUE PRiDE」
 2026年5月1日発売
 
-- [全曲クロスフェード (blue-pride-spin-style.flac FLAC 8 170.1MB)](https://soundcloud.com/hayatehay/blue-pride-spin-style) ※96kHz/24bitハイレゾ
-- [インターネット熱帯魚 (01 Tropical Fish In The Internet.flac FLAC 8 133.4MB)](https://soundcloud.com/hayatehay/tropical-fish-in-the-internet) ※96kHz/24bitハイレゾ
+- [全曲クロスフェード (blue-pride-spin-style.flac FLAC 8 170.1MB)](https://soundcloud.com/jinasanami/blue-pride-spin-style) ※96kHz/24bitハイレゾ
+- [インターネット熱帯魚 (01 Tropical Fish In The Internet.flac FLAC 8 133.4MB)](https://soundcloud.com/jinasanami/tropical-fish-in-the-internet) ※96kHz/24bitハイレゾ
 
 ミュージックカードを購入してダウンロード
 - [RURITANIA MUSIC STORE](https://nmimusic.booth.pm/items/7890725)
@@ -37,7 +37,7 @@ title: '体験版ダウンロード'
 ## SP「幻聴インヴィテーション」
 2025年12月31日発売
 
-- [全曲クロスフェード (gencho-invitation-spin-style.flac FLAC 8 21.7MB)](https://soundcloud.com/hayatehay/gencho-invitation-spin-style)
+- [全曲クロスフェード (gencho-invitation-spin-style.flac FLAC 8 21.7MB)](https://soundcloud.com/jinasanami/gencho-invitation-spin-style)
 
 ミュージックカードを購入してダウンロード
 - [RURITANIA MUSIC STORE](https://nmimusic.booth.pm/items/7634881)
@@ -52,7 +52,7 @@ title: '体験版ダウンロード'
 ## EP「Exsultatio」
 2025年9月26日発売
 
-- [全曲クロスフェード (exsultatio-xfade.flac FLAC 8 19.9MB)](https://soundcloud.com/hayatehay/exsultatio-xfade-demo)
+- [全曲クロスフェード (exsultatio-xfade.flac FLAC 8 19.9MB)](https://soundcloud.com/jinasanami/exsultatio-xfade-demo)
 
 ミュージックカードを購入してダウンロード
 - [RURITANIA MUSIC STORE](https://nmimusic.booth.pm/items/7267743)
@@ -71,7 +71,7 @@ CD-EXTRAを購入
 ## SP「Alma/哀流」
 2025年3月5日発売
 
-- [全曲クロスフェード (alma-airu-xfade.flac FLAC 8 7.4MB)](https://soundcloud.com/hayatehay/alma-airu-crossfade-demo)
+- [全曲クロスフェード (alma-airu-xfade.flac FLAC 8 7.4MB)](https://soundcloud.com/jinasanami/alma-airu-crossfade-demo)
 
 ミュージックカードを購入してダウンロード
 - [RURITANIA MUSIC STORE](https://nmimusic.booth.pm/items/6605491)
@@ -89,7 +89,7 @@ CD-EXTRAを購入
 ## 公式ブートレッグSP「DEMO 2024 DEC」
 2024年12月21日発売
 
-- [全曲クロスフェード (demo-2024-dec-xfade.flac FLAC 8 11.0MB)](https://soundcloud.com/hayatehay/demo-2024-dec-crossfade-demo)
+- [全曲クロスフェード (demo-2024-dec-xfade.flac FLAC 8 11.0MB)](https://soundcloud.com/jinasanami/demo-2024-dec-crossfade-demo)
 
 CD-EXTRAを購入
 - [RURITANIA MUSIC STORE](https://nmimusic.booth.pm/items/6371255/)
@@ -99,7 +99,7 @@ CD-EXTRAを購入
 ## SP「朝焼け -second track-」
 2024年7月14日発売
 
-- [朝焼け -second track- DEMO (sunrise-colours-second-track-demo.flac FLAC 8 6.2MB)](https://soundcloud.com/hayatehay/sunrise-colours-second-track-demo) 
+- [朝焼け -second track- DEMO (sunrise-colours-second-track-demo.flac FLAC 8 6.2MB)](https://soundcloud.com/jinasanami/sunrise-colours-second-track-demo) 
 
 ミュージックカードを購入してダウンロード
 - [RURITANIA MUSIC STORE](https://nmimusic.booth.pm/items/6389085)
@@ -114,7 +114,7 @@ CD-EXTRAを購入
 2024年7月7日発売
 
 - ~~月影 (moonlight.mp3 MP3 VBR 0 8.4MB)~~ **公開終了**
-- [全曲クロスフェード(tsukikage_sample.flac FLAC 8 17.2MB)](https://soundcloud.com/hayatehay/tsukikage-crossfade)
+- [全曲クロスフェード(tsukikage_sample.flac FLAC 8 17.2MB)](https://soundcloud.com/jinasanami/tsukikage-crossfade)
 
 CD-EXTRAを購入
 - [RURITANIA MUSIC STORE](https://nmimusic.booth.pm/items/5865685)

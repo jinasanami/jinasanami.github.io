@@ -47,7 +47,7 @@ ActivityPubプロトコルを使う他のSNSと繋がる場合がある。
 
 ## サウンドクラウド
 CDの体験版とかデモ曲とか。一部楽曲はダウンロードもできるようにしてある。
-- [@hayatehay](https://soundcloud.com/hayatehay)
+- [@jinasanami](https://soundcloud.com/jinasanami)
 
 ## Instagram
 極稀に写真を投稿する。
@@ -56,15 +56,15 @@ CDの体験版とかデモ曲とか。一部楽曲はダウンロードもでき
 ## Bluesky
 「bsky.social」サーバーにアカウントがあるが、あまり出没しない。<br>
 ATプロトコルにより他のSNSと繋がる場合がある。
-- [@hayatehay.bsky.social](https://bsky.app/profile/hayatehay.bsky.social)
+- [@jinasanami.bsky.social](https://bsky.app/profile/jinasanami.bsky.social)
 
 ## mixi2
 取り敢えず登録だけした。あんまり出没しないかも。
-- [@hayatehay](https://mixi.social/@hayatehay)
+- [@hayatehay](https://mixi.social/@jinasanami)
 
 ## GitHub
 「ソースコードよこせ！」って人はここから。ライセンスをしっかり守ってね。
-- [@hayatehay](https://github.com/hayatehay)
+- [@hayatehay](https://github.com/jinasanami)
 
 ## <s>ディスコ踊</s>Discord
 あたしと1対1で対話したい場合はここで。音声通話にも対応しているらしい。
