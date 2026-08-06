@@ -1,4 +1,6 @@
 images:
+  - image: "/img/carousel/nrmh-6.png"
+    content_html: ""
   - image: "/img/carousel/nrmh-5.png"
     content_html: ""
   - image: "/img/carousel/nrmh-4.png"

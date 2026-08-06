@@ -18,6 +18,16 @@ title: '体験版ダウンロード'
 
 ----
 
+## SP「Natural Intelligence」
+2026年8月30日発売
+
+- [全曲クロスフェード (natural-intelligence-spin-style.flac FLAC 8 70.0MB)](https://soundcloud.com/jinasanami/blue-pride-spin-style) ※96kHz/24bitハイレゾ
+
+デジタルメディアを購入してダウンロード
+- [Bandcamp](https://jinasanami.bandcamp.com/album/natural-intelligence)（8月7日先行発売）
+
+----
+
 ## EP「BLUE PRiDE」
 2026年5月1日発売
 
