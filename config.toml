@@ -132,6 +132,17 @@ index = false
 title = "NEWS"
 
 [[params.news.items]]
+title = "4th SP「ナチュラル・インテリジェンス」発売決定"
+date = "2026/08/15"
+content = """
+トランスジャズ第4弾。
+
+2026年8月30日に[ミュージックカード](/music/nrmh-6)を発売予定。
+
+なお、Bandcampでのデジタル配信は8月7日に開始済み、DLsite、メロンブックスでのデジタル配信は8月30日に開始予定です。
+"""
+
+[[params.news.items]]
 title = "3rd EP「BLUE PRiDE」発売決定"
 date = "2026/03/17"
 content = """
