@@ -132,6 +132,17 @@ index = false
 title = "NEWS"
 
 [[params.news.items]]
+title = "4th EP「Psybernation」発売＆M3-2026秋出展決定"
+date = "2026/10/02"
+content = """
+トランスジャズ第5弾。
+
+2026年10月25日の「M3-2026秋」にて[ミュージックカード](/music/nrmh-7)を発売予定（小間番号：F-21b）。
+
+なお、同日より、RURITANIA MUSIC STOREでの販売及びBandcamp、DLsite、メロンブックスでのデジタル配信も開始予定です。
+"""
+
+[[params.news.items]]
 title = "4th SP「ナチュラル・インテリジェンス」発売決定"
 date = "2026/08/15"
 content = """
