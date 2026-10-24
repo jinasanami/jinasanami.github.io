@@ -12,10 +12,8 @@ tags:
 - 発売元：中村音楽工業/日本ルリタニアレコード
 - 品番：NRMH-7
 - 価格：￥1200+消費税
-<!---
 - 入手
     - [RURITANIA MUSIC STORE](https://nmimusic.booth.pm/items/8892252)
---->
 
 **麻浪迅 4th EP・トランスジャズシリーズ 第5弾。電子の時代のJ-Jazzの決定盤、サイバネーション。**
 

@@ -16,15 +16,30 @@ title: '体験版ダウンロード'
 {{< figure src="/img/others/sample-02.png" position="left">}}
 </details>
 
+
+----
+
+## EP「Psybernation」
+2026年10月25日発売
+
+- [全曲クロスフェード (psybernation-spin-style.flac FLAC 8 92.3MB)](https://soundcloud.com/jinasanami/psybernation-spin-style) ※96kHz/24bitハイレゾ
+
+デジタルメディアを購入してダウンロード
+- [Bandcamp](https://jinasanami.bandcamp.com/album/psybernation)
+- [メロンブックス](https://www.melonbooks.co.jp/detail/detail.php?product_id=3897276)
+- [DLsite](https://www.dlsite.com/maniax/announce/=/product_id/RJ01742865.html)
+
 ----
 
 ## SP「Natural Intelligence」
 2026年8月30日発売
 
-- [全曲クロスフェード (natural-intelligence-spin-style.flac FLAC 8 70.0MB)](https://soundcloud.com/jinasanami/blue-pride-spin-style) ※96kHz/24bitハイレゾ
+- [全曲クロスフェード (natural-intelligence-spin-style.flac FLAC 8 70.0MB)](https://soundcloud.com/jinasanami/natural-intelligence-spin-style) ※96kHz/24bitハイレゾ
 
 デジタルメディアを購入してダウンロード
 - [Bandcamp](https://jinasanami.bandcamp.com/album/natural-intelligence)（8月7日先行発売）
+- [メロンブックス](https://www.melonbooks.co.jp/detail/detail.php?product_id=3800668)
+- [DLsite](https://www.dlsite.com/home/announce/=/product_id/RJ01683279.html)
 
 ----
 
